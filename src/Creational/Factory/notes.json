@@ -1,0 +1,3 @@
+- Creates objects without specifying exact classes
+- Useful when you don't know which specific class to instantiate
+- Easy to extend with new types

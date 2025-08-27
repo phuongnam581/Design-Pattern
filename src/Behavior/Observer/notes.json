@@ -1,0 +1,5 @@
+OBSERVER PATTERN:
+- ONE object (YouTube channel) notifies MANY objects (subscribers)
+- When something happens, everyone who's interested gets told
+- Like: notifications, event systems, news feeds
+- Pattern: 1 → Many

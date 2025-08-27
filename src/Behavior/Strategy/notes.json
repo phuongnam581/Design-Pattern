@@ -1,0 +1,5 @@
+STRATEGY PATTERN:  
+- ONE object (traveler/calculator) uses ONE of MANY possible behaviors
+- You choose which method to use at any time
+- Like: choosing payment method, travel method, sorting algorithm
+- Pattern: Choose 1 from Many
